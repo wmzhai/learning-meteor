@@ -1,31 +1,23 @@
 # Meteor教程
 
-# 什么是Meteor
+# [什么是Meteor](http://www.maiziedu.com/lesson/3446/)  
 
-[Kevin做App视频](http://www.maiziedu.com/lesson/3446/)  
-[kevin清华录像](http://www.youku.com/playlist_show/id_23545469.html)
+# [安装及Hello World](https://www.meteor.com/install)
 
+# [Discover Meteor中文教程](http://zh.discovermeteor.com/)
 
-# 安装及Hello World
-
-https://www.meteor.com/install
-
-# 第一个中文教程
-
-[Discover Meteor](http://zh.discovermeteor.com/)
-
-# 使用Iron工具快速搭建Meteor程序
-
-[使用Iron工具快速搭建Meteor程序](https://github.com/wmzhai/issuetracker)
+# [使用Iron工具快速搭建Meteor程序](https://github.com/wmzhai/issuetracker)
 
 
-# 学习iron:router
+# [iron:router]()
+
+# [SimpleSchema](package-simple-schema.md)
 
 
-# 学习aldeed:collection2
+# [aldeed:collection2]()
 
 
-# 学习aldeed:autoform
+# [aldeed:autoform]()
 
 
-# 学习accounts-password
+# [accounts-password]()
