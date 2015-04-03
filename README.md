@@ -14,6 +14,4 @@
 
 ## [Collection2](package-collection2.md)
 
-## [aldeed:autoform]()
-
-## [accounts-password]()
+## [AutoForm](package-autoform.md)
