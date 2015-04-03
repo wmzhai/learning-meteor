@@ -124,5 +124,55 @@
 - String  
 - Number
 - Boolean
+- Date
 - Object
+- Array
+
+
+### label
+
+在验证错误信息里面使用的用来表示这个字段的内容。 默认来说，就是这个字段内容的描述，如果针对不同场合需要有不同内容，可以使用一个回调函数来表示，比如
+
+	MySchema = new SimpleSchema({
+	  firstName: {
+	    type: String,
+	    label: function () {
+	      return Session.get("lang") == "de"
+	            ? "Vorname" : "first name";
+	    }
+	  }
+	});
+
+### optional
+
+一般来说，所有key都是必须的，可以设置 `optional: true` 来改变这一点。
+
+### min/max
+
+如果type是`Number`，则定义了最大或者最小的数值。  
+如果type是`String`，则定义了最大或者最小的字符串长度。
+如果type是`Date`，则定义了最大或者最小的日期。
+
+
+### exclusiveMin/exclusiveMax
+
+如果设置成true的话，则表示数值区域是一个需要被排除的区域。默认是false，表示包含区域。
+
+
+### decimal
+
+如果类型是Number且设置成true是，则表示允许非整数，默认是false。
+
+
+### minCount/maxCount
+
+数组的最小最大长度。仅当类型为Array的时候使用。
+
+### allowedValues
+
+一个允许值的数组。
+
+### regEx
+
+正则表达式。
 

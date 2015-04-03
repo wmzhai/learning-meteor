@@ -2,17 +2,17 @@
 
 ## [什么是Meteor](http://www.maiziedu.com/lesson/3446/)  
 
-## [安装及Hello World](https://www.meteor.com/install)
+## [Hello World](https://www.meteor.com/install)
 
-## [Discover Meteor中文教程](http://zh.discovermeteor.com/)
+## [Discover Meteor](http://zh.discovermeteor.com/)
 
-## [使用Iron工具快速搭建Meteor程序](https://github.com/wmzhai/issuetracker)
+## [Iron工具](https://github.com/wmzhai/issuetracker)
 
-## [iron:router]()
+## [路由详解]()
 
 ## [SimpleSchema](package-simple-schema.md)
 
-## [aldeed:collection2]()
+## [Collection2](package-collection2.md)
 
 ## [aldeed:autoform]()
 
