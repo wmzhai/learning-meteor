@@ -1,4 +1,4 @@
-# Meteor教程
+# Meteor学习指南
 
 ## 1. 为什么使用Meteor
 
@@ -17,32 +17,27 @@
 
 ### Javascript
 
-
-
 - [Javascript Course (Code Academy)](http://www.codecademy.com/en/tracks/javascript) – 入门介绍
-
-
 - [jQuery Course (Code Academy)](https://www.google.co.uk/search?q=codeacademy+jquery&oq=codeacademy+jquery&aqs=chrome..69i57l2j69i65l2j69i60l2.2892j0j4&sourceid=chrome&es_sm=119&ie=UTF-8) – 着重在selectors，因为他们是Meteor events的核心
+- [A Javascript Primer for Meteor (Discover Meteor)](https://www.discovermeteor.com/blog/javascript-for-meteor/) – DiscoverMeteor书里的简短教程
 
-- [A Javascript Primer for Meteor (Discover Meteor)](https://www.discovermeteor.com/blog/javascript-for-meteor/) – if this makes sense to you, you’re ready
 
 ### HTML
 
 必须熟悉基本的HTML和Bootstrap
 
-- [Twitter Bootstrap](http://getbootstrap.com/) – the main site contains lots of good examples
-
-
+- [Twitter Bootstrap](http://getbootstrap.com/) – 主站点，有很多好例子
 - [BootstrapZero](http://bootstrapzero.com/) – prebuilt bootstrap templates from which to learn
-
-
-- [Bootply](http://www.bootply.com/) – Realtime bootstrap editor for quick testing
+- [Bootply](http://www.bootply.com/) – 可以快速测试的实时Bootstrap编辑器
 
 ### CSS
 
 - [CSS基础](http://www.w3schools.com/css/)
 
 
+### Mongodb
+
+### CoffeeScript(可选)
 
 ## 3. 初学者入门
 
@@ -114,7 +109,7 @@
 ### 部署
 
 - [Production Meteor](https://meteorhacks.com/pro-meteor/)
-- [Meteor Up](https://github.com/arunoda/meteor-up) – Meteor deployment script
+- [Meteor Up](https://github.com/arunoda/meteor-up) – Meteor部署脚本
 - [Modulus](http://modulus.io/) – Specialised Node hosting
 
 
