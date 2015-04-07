@@ -15,6 +15,12 @@
 
 ## 2. 必备基础
 
+### HTML/CSS
+
+- [html&CSS教程](http://www.codecademy.com/en/tracks/web)(7小时)
+- [CSS基础](http://www.w3schools.com/css/)
+
+
 ### Javascript
 
 - [Javascript Course](http://www.codecademy.com/en/tracks/javascript)(10小时) – 入门介绍
@@ -22,17 +28,11 @@
 - [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
 
 
-### HTML
-
-必须熟悉基本的HTML和Bootstrap
+### Bootstrap
 
 - [Twitter Bootstrap](http://getbootstrap.com/) – 主站点，有很多好例子
 - [BootstrapZero](http://bootstrapzero.com/) – prebuilt bootstrap templates from which to learn
 - [Bootply](http://www.bootply.com/) – 可以快速测试的实时Bootstrap编辑器
-
-### CSS
-
-- [CSS基础](http://www.w3schools.com/css/)
 
 
 ### Mongodb
