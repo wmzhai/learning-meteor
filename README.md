@@ -17,9 +17,9 @@
 
 ### Javascript
 
-- [Javascript Course (10小时)](http://www.codecademy.com/en/tracks/javascript) – 入门介绍
-- [jQuery Course (3小时)](http://www.codecademy.com/tracks/jquery) – 着重在selectors，因为他们是Meteor events的核心
-- [A Javascript Primer for Meteor (1小时)](https://www.discovermeteor.com/blog/javascript-for-meteor/) – DiscoverMeteor书里的简短教程
+- [Javascript Course](http://www.codecademy.com/en/tracks/javascript)(10小时) – 入门介绍
+- [jQuery Course](http://www.codecademy.com/tracks/jquery)(3小时) – 着重在selectors，因为他们是Meteor events的核心
+- [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
 
 
 ### HTML
