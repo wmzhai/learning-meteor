@@ -18,7 +18,7 @@
 ### Javascript
 
 - [Javascript Course (Code Academy)](http://www.codecademy.com/en/tracks/javascript) – 入门介绍
-- [jQuery Course (Code Academy)](https://www.google.co.uk/search?q=codeacademy+jquery&oq=codeacademy+jquery&aqs=chrome..69i57l2j69i65l2j69i60l2.2892j0j4&sourceid=chrome&es_sm=119&ie=UTF-8) – 着重在selectors，因为他们是Meteor events的核心
+- [jQuery Course (Code Academy)](http://www.codecademy.com/tracks/jquery) – 着重在selectors，因为他们是Meteor events的核心
 - [A Javascript Primer for Meteor (Discover Meteor)](https://www.discovermeteor.com/blog/javascript-for-meteor/) – DiscoverMeteor书里的简短教程
 
 
