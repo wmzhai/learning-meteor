@@ -18,7 +18,7 @@
 ### HTML/CSS
 
 - [html&CSS教程](http://www.codecademy.com/en/tracks/web)(7小时)
-- [CSS基础](http://www.w3schools.com/css/)
+- [CSS基础](http://www.w3school.com.cn/css/)
 
 
 ### Javascript
