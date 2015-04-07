@@ -22,12 +22,10 @@
 - [CSS基础](http://www.w3school.com.cn/css/)
 
 
-### Javascript
+### Javascript & CoffeeScript
 
-- [Javascript Course](http://www.codecademy.com/en/tracks/javascript)(10小时) – 入门介绍
-- [jQuery Course](http://www.codecademy.com/tracks/jquery)(3小时) – 着重在selectors，因为他们是Meteor events的核心
 - [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
-
+- [深入浅出CoffeeScript](http://item.jd.com/10977150.html) 纸质书籍，比较简洁
 
 ### Bootstrap
 
@@ -38,7 +36,7 @@
 
 ### Mongodb
 
-### CoffeeScript(可选)
+
 
 ## 3. 初学者入门
 
