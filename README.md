@@ -42,24 +42,31 @@
 
 ### 官方资料
 
--  [官方教程](https://www.meteor.com/try)
--  [Meteor文档](http://docs.meteor.com/#/basic/)
+-  [官方教程](https://www.meteor.com/try)	入门阅读，一步一步操作，
+-  [Leaderboard](http://meteortips.com/book/)  深入浅出地讲了一些原理，值得细读并操作
+
 
 ### Meteor 基础
 
-- [Discover Meteor前四章](http://zh.discovermeteor.com/)
+- [Discover Meteor中文版](http://zh.discovermeteor.com/)
 - [Meteor基础](http://andrewscala.com/meteor/)
 
+### Meteor文档
+-  [Meteor文档](http://docs.meteor.com/#/basic/)
+
+### 核心Package学习
+
+- [Iron Router](https://github.com/EventedMind/iron-router) - 可以参考的[Guide](https://github.com/EventedMind/iron-router/blob/devel/Guide.md)和[教程](http://manuel-schoebel.com/blog/iron-router-tutorial)
+- [AutoForm](package-autoform.md)
+- [Accounts Entry](https://github.com/Differential/accounts-entry) – Pretty login pages
+- [Meteor Admin](http://meteorfactory.io/meteor-admin) – Admin dashboard package for meteor
+- [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
+- [SimpleSchema](package-simple-schema.md)
+- [Collection2](package-collection2.md)
+- [Iron工具](https://github.com/wmzhai/issuetracker)
 
 
 ## 4. 中端进阶
-
-
-
-### 第一个app
-
-- [完成Discover Meteor](http://zh.discovermeteor.com/)
-- [免费教程](http://meteortips.com/book/projects/)
 
 
 ### 开源项目
@@ -75,16 +82,6 @@
 - [houston:admin](https://github.com/gterrono/houston)
 
 
-### 核心Package学习
-
-- [Iron Router](https://github.com/EventedMind/iron-router) - 可以参考的[Guide](https://github.com/EventedMind/iron-router/blob/devel/Guide.md)和[教程](http://manuel-schoebel.com/blog/iron-router-tutorial)
-- [AutoForm](package-autoform.md)
-- [Accounts Entry](https://github.com/Differential/accounts-entry) – Pretty login pages
-- [Meteor Admin](http://meteorfactory.io/meteor-admin) – Admin dashboard package for meteor
-- [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
-- [SimpleSchema](package-simple-schema.md)
-- [Collection2](package-collection2.md)
-- [Iron工具](https://github.com/wmzhai/issuetracker)
 
 
 ## 5. 高级
