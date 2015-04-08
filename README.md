@@ -92,11 +92,7 @@
 - [Learn.MeteorFactory](http://learn.meteorfactory.io/)
 - [MeteorHacks](https://meteorhacks.com/)
 - [MeteorPodcast](http://www.meteorpodcast.com/)
-
-
-
-
-
+- [How To Learn Meteor Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 
 
 ### 开发Packages
