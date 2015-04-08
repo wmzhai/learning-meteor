@@ -1,6 +1,6 @@
 # Meteor学习指南
 
-## 前言 为什么使用Meteor
+## 1. 为什么使用Meteor
 
 ### Meteor为什么好
 
@@ -13,7 +13,7 @@
 - [Made with Meteo](http://madewith.meteor.com/)
 
 
-## 0. 必备基础
+## 2. 必备基础
 
 熟悉HTML/CSS/JS的可以略过这一部分
 
@@ -40,7 +40,7 @@
 
 
 
-## 1. 初学者入门
+## 3. 初学者入门
 
 主要是如下3个教程，反复多走几遍，结合操作
 
@@ -49,7 +49,7 @@
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
 
 
-## 2. 文档阅读
+## 4. 文档阅读
 
 
 
@@ -69,7 +69,7 @@
 
 
 
-## 3. 中端进阶
+## 5. 中端进阶
 
 
 ### 开源项目
@@ -84,7 +84,7 @@
 - [houston:admin](https://github.com/gterrono/houston)
 - [Iron工具](https://github.com/wmzhai/issuetracker)
 
-## 4. 高级深入
+## 6. 高级深入
 
 ### Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
