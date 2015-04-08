@@ -1,6 +1,6 @@
 # Meteor学习指南
 
-## 1. 为什么使用Meteor
+## 前言 为什么使用Meteor
 
 ### Meteor为什么好
 
@@ -13,7 +13,9 @@
 - [Made with Meteo](http://madewith.meteor.com/)
 
 
-## 2. 必备基础
+## 0. 必备基础
+
+熟悉HTML/CSS/JS的可以略过这一部分
 
 ### HTML/CSS
 
@@ -38,21 +40,22 @@
 
 
 
-## 3. 初学者入门
+## 1. 初学者入门
 
-### 官方资料
+主要是如下3个教程，反复多走几遍，结合操作
 
--  [官方教程](https://www.meteor.com/try)	入门阅读，一步一步操作，
--  [Leaderboard](http://meteortips.com/book/)  深入浅出地讲了一些原理，值得细读并操作
-
-
-### Meteor 基础
-
+- [官方教程](https://www.meteor.com/try)	入门阅读，一步一步操作，
+- [Leaderboard](http://meteortips.com/book/)  深入浅出地讲了一些原理，值得细读并操作
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
-- [Meteor基础](http://andrewscala.com/meteor/)
+
+
+## 2. 文档阅读
+
+
 
 ### Meteor文档
 -  [Meteor文档](http://docs.meteor.com/#/basic/)
+-  [Meteor基础](http://andrewscala.com/meteor/)
 
 ### 核心Package学习
 
@@ -63,10 +66,10 @@
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 - [SimpleSchema](package-simple-schema.md)
 - [Collection2](package-collection2.md)
-- [Iron工具](https://github.com/wmzhai/issuetracker)
 
 
-## 4. 中端进阶
+
+## 3. 中端进阶
 
 
 ### 开源项目
@@ -74,17 +77,14 @@
 - [Telescope](https://github.com/TelescopeJS/Telescope)
 - [Microscope](https://github.com/DiscoverMeteor/Microscope)
 
-
 ### 模板项目
 
 - [模板项目比较](https://medium.com/things-i-did-and-learned-today/in-search-of-a-meteor-boilerplate-6f01fe5abfd1)
 - [Meteor Starter](http://learn.meteorfactory.io/)
 - [houston:admin](https://github.com/gterrono/houston)
+- [Iron工具](https://github.com/wmzhai/issuetracker)
 
-
-
-
-## 5. 高级
+## 4. 高级深入
 
 ### Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
