@@ -120,3 +120,8 @@
 
 - [Meteor Talk](https://groups.google.com/forum/#!forum/meteor-talk) (Google Group) – generally get a response in a day
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor)
+
+
+## 7. 专题文章
+
+- [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks)
