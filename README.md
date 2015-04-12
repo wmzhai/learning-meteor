@@ -49,7 +49,7 @@
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
 
 
-## 4. 文档阅读
+## 4. 专题学习
 
 
 
@@ -66,7 +66,7 @@
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 - [SimpleSchema](package-simple-schema.md)
 - [Collection2](package-collection2.md)
-
+- [CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS)
 
 
 ## 5. 中端进阶
