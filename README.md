@@ -42,31 +42,42 @@
 
 ## 3. 初学者入门
 
+### 基本教程
 主要是如下3个教程，反复多走几遍，结合操作
 
 - [官方教程](https://www.meteor.com/try)	入门阅读，一步一步操作，
 - [Leaderboard](http://meteortips.com/book/)  深入浅出地讲了一些原理，值得细读并操作
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
 
-
-## 4. 专题学习
-
-
-
 ### Meteor文档
 -  [Meteor文档](http://docs.meteor.com/#/basic/)
 -  [Meteor基础](http://andrewscala.com/meteor/)
 
-### 核心Package学习
 
-- [Iron Router](https://github.com/EventedMind/iron-router) - 可以参考的[Guide](https://github.com/EventedMind/iron-router/blob/devel/Guide.md)和[教程](http://manuel-schoebel.com/blog/iron-router-tutorial)
-- [AutoForm](package-autoform.md)
+
+## 4. 专题学习
+
+### Router
+
+- [Iron Router](https://github.com/EventedMind/iron-router) - 可以参考的[Iron Router Guide](https://github.com/EventedMind/iron-router/blob/devel/Guide.md)和[Iron Router教程](http://manuel-schoebel.com/blog/iron-router-tutorial)
+
+### 账户系统
+
 - [Accounts Entry](https://github.com/Differential/accounts-entry) – Pretty login pages
-- [Meteor Admin](http://meteorfactory.io/meteor-admin) – Admin dashboard package for meteor
-- [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
+
+### 数据建模及AutoForm
+
+- [AutoForm](package-autoform.md)
 - [SimpleSchema](package-simple-schema.md)
 - [Collection2](package-collection2.md)
+
+### 文件处理
+
 - [CollectionFS](collectionfs.md)
+
+
+
+
 
 
 ## 5. 中端进阶
@@ -83,6 +94,10 @@
 - [Meteor Starter](http://learn.meteorfactory.io/)
 - [houston:admin](https://github.com/gterrono/houston)
 - [Iron工具](https://github.com/wmzhai/issuetracker)
+- [Meteor Admin](http://meteorfactory.io/meteor-admin) – Admin dashboard package for meteor
+- [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
+
+
 
 ## 6. 高级深入
 
