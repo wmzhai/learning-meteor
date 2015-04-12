@@ -62,6 +62,8 @@
 - [Iron Router](https://github.com/EventedMind/iron-router)
 - [Iron Router Guide](https://github.com/EventedMind/iron-router/blob/devel/Guide.md)
 - [Iron-Router Tutorial](http://manuel-schoebel.com/blog/iron-router-tutorial) (by Manuel Schoebel)
+- [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks)
+
 
 ### 账户系统
 
@@ -135,13 +137,10 @@
 
 ### 提问
 
-
-
 - [Meteor Talk](https://groups.google.com/forum/#!forum/meteor-talk) (Google Group) – generally get a response in a day
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor)
 
 
 ## 7. 专题文章
 
-- [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks)
 - [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
