@@ -66,7 +66,7 @@
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 - [SimpleSchema](package-simple-schema.md)
 - [Collection2](package-collection2.md)
-- [CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS)
+- [CollectionFS](collectionfs.md)
 
 
 ## 5. 中端进阶
