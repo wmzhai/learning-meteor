@@ -57,7 +57,7 @@
 
 ## 4. 专题学习
 
-### Router
+### [Router](router.md)
 
 - [Iron Router](https://github.com/EventedMind/iron-router)
 - [Iron Router Guide](https://github.com/EventedMind/iron-router/blob/devel/Guide.md)
