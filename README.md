@@ -78,6 +78,7 @@
 - [AutoForm](package-autoform.md)
 - [SimpleSchema](package-simple-schema.md)
 - [Collection2](package-collection2.md)
+- [AutoForm Tutorial](http://www.webtempest.com/meteor-js-autoform-tutorial)
 
 
 ### underscore
