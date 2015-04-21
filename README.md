@@ -50,6 +50,12 @@
 - [官方教程](https://www.meteor.com/try)	入门阅读，一步一步操作，
 - [Leaderboard](http://meteortips.com/book/)  深入浅出地讲了一些原理，值得细读并操作
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
+-
+
+### 其他教程
+
+- [MetorJS Building an app from scratch](http://www.webtempest.com/meteorjs-fromscratch-1)
+- [Evented Mind在线教程](https://www.eventedmind.com/)
 
 ### Meteor文档
 -  [Meteor文档](http://docs.meteor.com/#/basic/)
