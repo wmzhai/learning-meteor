@@ -110,6 +110,7 @@
 
 - [Telescope](https://github.com/TelescopeJS/Telescope)
 - [Microscope](https://github.com/DiscoverMeteor/Microscope)
+- [MeteorHunt](https://github.com/meteoric/meteorhunt)
 
 ### 模板项目
 
