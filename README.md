@@ -83,9 +83,9 @@
 
 ### 数据建模及AutoForm
 
-- [AutoForm](package-autoform.md)
-- [SimpleSchema](package-simple-schema.md)
-- [Collection2](package-collection2.md)
+- [AutoForm](https://atmospherejs.com/aldeed/autoform)
+- [SimpleSchema](https://atmospherejs.com/aldeed/simple-schema)
+- [Collection2](https://atmospherejs.com/aldeed/collection2)
 - [AutoForm Tutorial](http://www.webtempest.com/meteor-js-autoform-tutorial)
 
 
@@ -100,7 +100,21 @@
 
 
 
+### RestAPI
 
+- [使用时机](http://meteorpedia.com/read/REST_API)
+- [nimble:restivus](https://atmospherejs.com/nimble/restivus)
+
+
+### 开发Packages
+
+
+
+### 部署
+
+- [Production Meteor](https://meteorhacks.com/pro-meteor/)
+- [Meteor Up](https://github.com/arunoda/meteor-up) – Meteor部署脚本
+- [Modulus](http://modulus.io/) – Specialised Node hosting
 
 
 ## 5. 中端进阶
@@ -122,7 +136,6 @@
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 
 
-
 ## 6. 高级深入
 
 ### Blogs
@@ -133,15 +146,6 @@
 - [MeteorPodcast](http://www.meteorpodcast.com/)
 - [How To Learn Meteor Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 
-
-### 开发Packages
-
-
-### 部署
-
-- [Production Meteor](https://meteorhacks.com/pro-meteor/)
-- [Meteor Up](https://github.com/arunoda/meteor-up) – Meteor部署脚本
-- [Modulus](http://modulus.io/) – Specialised Node hosting
 
 
 ### SEO
