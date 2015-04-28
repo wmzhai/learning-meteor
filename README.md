@@ -112,6 +112,7 @@
 
 ### 部署
 
+- [开发部署一体化环境安装](https://github.com/wmzhai/setup-meteor-machine/blob/master/README.md)
 - [Production Meteor](https://meteorhacks.com/pro-meteor/)
 - [Meteor Up](https://github.com/arunoda/meteor-up) – Meteor部署脚本
 - [Modulus](http://modulus.io/) – Specialised Node hosting
