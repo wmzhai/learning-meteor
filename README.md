@@ -40,7 +40,9 @@
 
 ### Mongodb
 
-
+- [官方教程](http://docs.mongodb.org/manual/core/introduction/)
+- [Data Model Design for MongoDB](http://docs.mongodb.org/master/MongoDB-data-models-guide.pdf)
+- [50 Tips and Tricks for MongoDB Developers](https://marcell.memoryoftheworld.org/Kristina%20Chodorow/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20(1935)/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf)
 
 ## 3. 初学者入门
 
@@ -148,12 +150,12 @@
 - [How To Learn Meteor Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 
 
-
 ### SEO
 
 - [Meteor and SEO](http://manuel-schoebel.com/blog/meteor-and-seo) – Manuel takes you through his [SEO package](https://github.com/DerMambo/ms-seo)
 
-### 性能优化
+
+### 性能监测
 
 - [Kadira](https://kadira.io/) – Perfomance Monitoring for Meteor
 
