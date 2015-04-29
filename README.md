@@ -158,6 +158,7 @@
 ### 性能监测
 
 - [Kadira](https://kadira.io/) – Perfomance Monitoring for Meteor
+- [Getting Started With Kadira](https://kadira.io/academy/getting-started-with-kadira/)
 
 
 ### 提问
