@@ -128,6 +128,7 @@
 - [Telescope](https://github.com/TelescopeJS/Telescope)
 - [Microscope](https://github.com/DiscoverMeteor/Microscope)
 - [MeteorHunt](https://github.com/meteoric/meteorhunt)
+- [Crowducate](https://github.com/Crowducate/crowducate-next)
 
 ### 模板项目
 
