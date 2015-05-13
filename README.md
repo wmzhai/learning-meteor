@@ -126,6 +126,7 @@
 ### 开源项目
 
 - [Telescope](https://github.com/TelescopeJS/Telescope)
+- [Libreboard](http://libreboard.com/boards/MeSsFJaSqeuo9M6bs/libreboard-roadmap) meteor实现的trello
 - [Microscope](https://github.com/DiscoverMeteor/Microscope)
 - [MeteorHunt](https://github.com/meteoric/meteorhunt)
 - [Crowducate](https://github.com/Crowducate/crowducate-next)
