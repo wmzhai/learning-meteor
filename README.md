@@ -47,7 +47,7 @@
 ## 3. 初学者入门
 
 ### 基本教程
-主要是如下3个教程，反复多走几遍，结合操作
+主要是如下4个教程，反复多走几遍，结合操作
 
 - [官方教程](https://www.meteor.com/try)	入门阅读，一步一步操作
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
