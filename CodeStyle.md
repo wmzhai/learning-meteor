@@ -74,13 +74,32 @@
 ## Meteor methods 的 check
 每一个 Meteor 的 methods 都需要在一开始进行 check. 保证传入参数合法.
 
+## 6. Publish规范
+对client端发布数据时加入限制条件，只对client端发布需要的字段，减少传输开销；
+有些数据需要登录并且有权限才能查看
 
-## 6. 其他
+        Meteor.publish "users",->
+         unless @userId 
+            @ready()
+         else
+            Meteor.users.find {'profile.patientProfile.doctorId':@userId},
+              limit:5
+              fields:
+                profile:1
+                status: 1
+
+
+## 7. 其他
 
 ### 避免使用 jQuery
 
 前端代码使用 jQuery 不是灵丹妙药. 如果可以用template.find 解决就避免 jquery. jQuery 会在全局进行 DOM 操作, 有可能引起未知的后果. 比如页面规模很大的时候, 有可能碰巧修改了其他 Template 里面的元素. 这种 bug 很难发现.
 
+### 善用 [`underscore`][1]  
+
 ### Server 代码善用 throw new Meteor.Error
 
 返回有价值的错误信息. 便于查错.
+
+
+  [1]: http://underscorejs.org/
