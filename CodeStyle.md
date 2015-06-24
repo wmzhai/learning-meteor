@@ -20,10 +20,35 @@
  驼峰规则，比如ContactList.coffee
   
 ### Collection命名
+ 全局变量@  
  Collection变量首字母大写驼峰复数，数据库名称首字母小写驼峰复数，比如
  
   @ContactLists =  new Mongo.Collection "contactLists"
+
+### Schema命名
+ 全局变量   
+ 单数   
+ 首字母大写驼峰   
  
+ @Schema.ContactList = new SimpleSchema(
+    name:
+      type: String
+      label: '姓名'
+      optional: false
+    gender:
+      type: String
+      label: '性别'
+      autoform:
+        allowedValues:['男','女']
+        options: ->
+          男:'男'
+          女:'女'
+  )
+  )
+      
+      
+
+
 
 ## 3. Template规范
 
