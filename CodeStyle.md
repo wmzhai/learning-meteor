@@ -30,22 +30,21 @@
  单数   
  首字母大写驼峰   
  
- @Schema.ContactList = new SimpleSchema(
-    name:
-      type: String
-      label: '姓名'
-      optional: false
-    gender:
-      type: String
-      label: '性别'
-      autoform:
-        allowedValues:['男','女']
-        options: ->
-          男:'男'
-          女:'女'
-  )
-  )
-      
+     @Schema.ContactList = new SimpleSchema(
+        name:
+          type: String
+          label: '姓名'
+          optional: false
+        gender:
+          type: String
+          label: '性别'
+          autoform:
+            allowedValues:['男','女']
+            options: ->
+              男:'男'
+              女:'女'
+      )
+        
       
 
 
