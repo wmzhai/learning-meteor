@@ -3,7 +3,12 @@
 
 ## 目录结构
 
-目录名字有含义的, client, server, lib, public 等.不要放错地方
+学习rails项目的优点，特定目录放特定内容，不要放错地方
+- client 客户端代码
+- server 服务器端代码
+- lib 两端都有的代码
+- public 
+- packages 包
 
 ## template规则
 
