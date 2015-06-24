@@ -19,7 +19,7 @@
 ### 文件名
  驼峰规则，比如ContactList
   
-### Schema命名
+### Collection命名
  Collection变量首字母大写驼峰复数，数据库名称首字母小写驼峰复数，比如
  
   ContactLists =  new Mongo.Collection "contactLists"
