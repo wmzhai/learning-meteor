@@ -71,8 +71,8 @@
 
 ## 5. Router规范
 
-## Meteor methods 的 check
-每一个 Meteor 的 methods 都需要在一开始进行 check. 保证传入参数合法.
+route全部采用小写字母
+
 
 ## 6. Publish规范
 对client端发布数据时加入限制条件，只对client端发布需要的字段，减少传输开销；
@@ -100,6 +100,9 @@
 ### Server 代码善用 throw new Meteor.Error
 
 返回有价值的错误信息. 便于查错.
+
+### Meteor methods 的 check
+每一个 Meteor 的 methods 都需要在一开始进行 check. 保证传入参数合法.
 
 
   [1]: http://underscorejs.org/
