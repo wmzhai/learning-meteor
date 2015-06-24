@@ -51,10 +51,13 @@
 
 ## 3. Template规范
 
+### 模板名  
+  小写开头，驼峰格式
+  
 ### 独立文件
  避免多个template共用文件。   
  每个template独立文件，Template 的文件名, Template 名字, Template 的 js/coffee 文件的命名一致   
- 如果你的 template 叫做"ContactList", 那么对应的文件也应叫叫做 ContactList.coffee ContractList.jade ContractList.less 
+ 如果你的 template 叫做"contactList", 那么对应的文件也应叫叫做 contactList.coffee contractList.html contractList.less 
 
 ### 模板粒度尽量小
 如果你发现需要卷好几屏幕才能看完一个 Template 的代码, 那么可以考虑分解成更小的 Template 了
