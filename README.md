@@ -47,9 +47,9 @@
 ### 基本教程
 主要是如下4个教程，反复多走几遍，结合操作
 
-- [官方教程](https://www.meteor.com/try)	入门阅读，一步一步操作
+- [官方教程](https://www.meteor.com/tutorials/blaze/creating-an-app)	入门阅读，一步一步操作
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
-- [Your First Meteor Application](http://meteortips.com/book/)  深入浅出地讲了一些原理，值得细读并操作
+- [Your First Meteor Application](http://meteortips.com/first-meteor-tutorial/)  深入浅出地讲了一些原理，值得细读并操作
 - [Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/)
 
 
@@ -61,7 +61,6 @@
 ### Meteor文档
 -  [Meteor文档](http://docs.meteor.com/#/basic/)
 -  [Meteor基础](http://andrewscala.com/meteor/)
-
 
 
 ## 4. 专题学习
