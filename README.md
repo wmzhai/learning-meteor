@@ -16,7 +16,7 @@
 
 ## 2. 必备基础
 
-熟悉HTML/CSS/JS的可以略过这一部分
+熟悉HTML/CSS/JS的可以略过这一部分，另外[FreeCodeCamp](http://www.freecodecamp.com/)是一个不错的综合入门途径
 
 ### HTML/CSS
 
