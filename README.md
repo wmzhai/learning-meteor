@@ -24,10 +24,9 @@
 - [CSS基础](http://www.w3school.com.cn/css/)
 
 
-### Javascript & CoffeeScript
+### Javascript 
 
 - [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
-- [深入浅出CoffeeScript](http://item.jd.com/10977150.html) 纸质书籍，比较简洁
 
 ### Bootstrap
 
@@ -36,7 +35,6 @@
 - [Bootply](http://www.bootply.com/) – 可以快速测试的实时Bootstrap编辑器
 - [Bootstrap CSS](http://getbootstrap.com/css/)
 - [Bootsrap元素](http://getbootstrap.com/components)
-
 
 ### Mongodb
 
