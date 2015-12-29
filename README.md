@@ -52,6 +52,7 @@
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
 - [Your First Meteor Application](http://meteortips.com/first-meteor-tutorial/)  深入浅出地讲了一些原理，值得细读并操作
 - [Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/) todos详解
+- [Blaze to React](https://www.discovermeteor.com/category/blaze-to-react/)
 
 
 ### 其他教程
