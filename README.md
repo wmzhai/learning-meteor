@@ -28,6 +28,7 @@
 ### Javascript 
 
 - [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
+- [ES6](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md)
 
 ### Bootstrap
 
