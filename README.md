@@ -69,16 +69,10 @@
 ## 4. 相关原理
 
 - [OptimisticUI](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
+- [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
+- [Mongodb Oplog and Meteor](https://meteorhacks.com/mongodb-oplog-and-meteor)
 
-## 4. 专题学习
-
-### [Router](router.md)
-
-- [Iron Router](https://github.com/EventedMind/iron-router)
-- [Iron Router Guide](https://github.com/EventedMind/iron-router/blob/devel/Guide.md)
-- [Iron-Router Tutorial](http://manuel-schoebel.com/blog/iron-router-tutorial) (by Manuel Schoebel)
-- [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks)
-
+## 5. 专题学习
 
 ### 账户系统
 
@@ -94,16 +88,9 @@
 - [AutoForm Tutorial](http://www.webtempest.com/meteor-js-autoform-tutorial)
 
 
-### underscore
-
-- [underscore](http://underscorejs.org/)
-
-
 ### 文件处理
 
 - [CollectionFS](collectionfs.md)
-
-
 
 ### RestAPI
 
@@ -114,7 +101,6 @@
 ### 开发Packages
 
 
-
 ### 部署
 
 - [开发部署一体化环境安装](https://github.com/wmzhai/setup-meteor-machine/blob/master/README.md)
@@ -123,7 +109,7 @@
 - [Modulus](http://modulus.io/) – Specialised Node hosting
 
 
-## 5. 中端进阶
+## 6. 中端进阶
 
 
 ### 开源项目
@@ -145,7 +131,7 @@
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 
 
-## 6. 高级深入
+## 7. 高级深入
 
 ### Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
@@ -173,6 +159,4 @@
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor)
 
 
-## 7. 专题文章
 
-- [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
