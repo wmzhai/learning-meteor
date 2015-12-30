@@ -44,7 +44,7 @@
 - [Data Model Design for MongoDB](http://docs.mongodb.org/master/MongoDB-data-models-guide.pdf)
 - [50 Tips and Tricks for MongoDB Developers](https://marcell.memoryoftheworld.org/Kristina%20Chodorow/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20(1935)/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf)
 
-## 3. 初学者入门
+## 3. 初级入门
 
 ### 基本教程
 主要是如下4个教程，反复多走几遍，结合操作
@@ -65,12 +65,17 @@
 -  [Meteor文档](http://docs.meteor.com/#/basic/)
 -  [Meteor基础](http://andrewscala.com/meteor/)
 
-
-## 4. 相关原理
+### 相关原理
 
 - [OptimisticUI](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
 - [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
 - [Mongodb Oplog and Meteor](https://meteorhacks.com/mongodb-oplog-and-meteor)
+
+
+## 4. 中级加强
+
+- [Meteor Guide](http://guide.meteor.com/)
+
 
 ## 5. 专题学习
 
