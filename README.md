@@ -66,6 +66,10 @@
 -  [Meteor基础](http://andrewscala.com/meteor/)
 
 
+## 4. 相关原理
+
+- [OptimisticUI](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
+
 ## 4. 专题学习
 
 ### [Router](router.md)
