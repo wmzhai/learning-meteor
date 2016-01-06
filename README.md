@@ -27,8 +27,11 @@
 
 ### Javascript 
 
+Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了解
+
 - [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
 - [ES6](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md)
+- [ECMAScript6入门](http://es6.ruanyifeng.com/) 比较好的ES6介绍
 
 ### Bootstrap
 
