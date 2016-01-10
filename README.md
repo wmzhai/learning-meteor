@@ -18,6 +18,8 @@
 
 熟悉HTML/CSS/JS的可以略过这一部分，另外[FreeCodeCamp](http://www.freecodecamp.com/)是一个不错的综合入门途径
 
+在[LevelUpTuts](http://leveluptuts.com/)收录了一些很不错的入门视频教程
+
 ### HTML/CSS
 
 - [HTML中文教程](http://www.w3school.com.cn/html/index.asp)
