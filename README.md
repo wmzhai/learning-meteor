@@ -81,6 +81,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 ## 4. 中级加强
 
 - [Meteor Guide](http://guide.meteor.com/)
+- [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
 
 
 ## 5. 专题学习
@@ -103,14 +104,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 
 - [CollectionFS](collectionfs.md)
 
-### RestAPI
-
-- [使用时机](http://meteorpedia.com/read/REST_API)
-- [nimble:restivus](https://atmospherejs.com/nimble/restivus)
-
-
 ### 开发Packages
-
 
 ### 部署
 
@@ -119,9 +113,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Meteor Up](https://github.com/arunoda/meteor-up) – Meteor部署脚本
 - [Modulus](http://modulus.io/) – Specialised Node hosting
 
-
 ## 6. 中端进阶
-
 
 ### 开源项目
 
