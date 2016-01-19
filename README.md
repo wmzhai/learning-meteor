@@ -28,7 +28,7 @@
 - [LESS动态样式语言](http://www.bootcss.com/p/lesscss/)
 
 
-### Javascript 
+### Javascript
 
 Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了解
 
@@ -71,49 +71,23 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 -  [Meteor文档](http://docs.meteor.com/#/basic/)
 -  [Meteor基础](http://andrewscala.com/meteor/)
 
-### 相关原理
-
-- [OptimisticUI](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
-- [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
-- [Mongodb Oplog and Meteor](https://meteorhacks.com/mongodb-oplog-and-meteor)
-
 
 ## 4. 中级加强
+
+
+### Best Practice
 
 - [Meteor Guide](http://guide.meteor.com/)
 - [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
 
 
-## 5. 专题学习
+### 相关原理
 
-### 账户系统
+- [OptimisticUI](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
+- [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
+- [Mongodb Oplog and Meteor](https://meteorhacks.com/mongodb-oplog-and-meteor)
+- [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 
-- [accounts-password](https://atmospherejs.com/meteor/accounts-password)
-- [accounts-ui](https://atmospherejs.com/meteor/accounts-ui)
-- [Accounts Entry](https://github.com/Differential/accounts-entry) – Pretty login pages
-
-### 数据建模及AutoForm
-
-- [AutoForm](https://atmospherejs.com/aldeed/autoform)
-- [SimpleSchema](https://atmospherejs.com/aldeed/simple-schema)
-- [Collection2](https://atmospherejs.com/aldeed/collection2)
-- [AutoForm Tutorial](http://www.webtempest.com/meteor-js-autoform-tutorial)
-
-
-### 文件处理
-
-- [CollectionFS](collectionfs.md)
-
-### 开发Packages
-
-### 部署
-
-- [开发部署一体化环境安装](https://github.com/wmzhai/setup-meteor-machine/blob/master/README.md)
-- [Production Meteor](https://meteorhacks.com/pro-meteor/)
-- [Meteor Up](https://github.com/arunoda/meteor-up) – Meteor部署脚本
-- [Modulus](http://modulus.io/) – Specialised Node hosting
-
-## 6. 中端进阶
 
 ### 开源项目
 
@@ -134,7 +108,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 
 
-## 7. 高级深入
+## 5. 高级深入
 
 ### Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
@@ -160,6 +134,3 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 
 - [Meteor Talk](https://groups.google.com/forum/#!forum/meteor-talk) (Google Group) – generally get a response in a day
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor)
-
-
-
