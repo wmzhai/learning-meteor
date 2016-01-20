@@ -16,10 +16,6 @@
 
 ## 2. 必备基础
 
-熟悉HTML/CSS/JS的可以略过这一部分，另外[FreeCodeCamp](http://www.freecodecamp.com/)是一个不错的综合入门途径
-
-在[LevelUpTuts](http://leveluptuts.com/)收录了一些很不错的入门视频教程
-
 ### HTML/CSS/LESS
 
 - [HTML中文教程](http://www.w3school.com.cn/html/index.asp)
@@ -27,13 +23,12 @@
 - [CSS基础](http://www.w3school.com.cn/css/)
 - [LESS动态样式语言](http://www.bootcss.com/p/lesscss/)
 
-
 ### Javascript
 
 Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了解
 
 - [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
-- [ES6](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md)
+- [ES6](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md) ES6说明
 - [ECMAScript6入门](http://es6.ruanyifeng.com/) 比较好的ES6介绍
 
 ### Bootstrap
@@ -59,8 +54,6 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Discover Meteor中文版](http://zh.discovermeteor.com/)
 - [Your First Meteor Application](http://meteortips.com/first-meteor-tutorial/)  深入浅出地讲了一些原理，值得细读并操作
 - [Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/) todos详解
-- [Blaze to React](https://www.discovermeteor.com/category/blaze-to-react/)
-
 
 ### 其他教程
 
@@ -78,7 +71,6 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 ### Best Practice
 
 - [Meteor Guide](http://guide.meteor.com/)
-- [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
 
 
 ### 相关原理
@@ -87,13 +79,13 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
 - [Mongodb Oplog and Meteor](https://meteorhacks.com/mongodb-oplog-and-meteor)
 - [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
-
+- [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
 
 ### 开源项目
 
 - [Telescope](https://github.com/TelescopeJS/Telescope)
 - [Libreboard](http://libreboard.com/boards/MeSsFJaSqeuo9M6bs/libreboard-roadmap) meteor实现的trello
-- [Microscope](https://github.com/DiscoverMeteor/Microscope)
+- [Wekan](https://github.com/wekan/wekan)
 - [MeteorHunt](https://github.com/meteoric/meteorhunt)
 - [Crowducate](https://github.com/Crowducate/crowducate-next)
 - [Mature Open-source](https://forums.meteor.com/t/mature-open-source-apps-built-with-meteor/935)
