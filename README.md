@@ -102,6 +102,21 @@
 
 ## 4. 附录
 
+### 开发工具
+* 操作系统
+  * mac: 首选的操作系统，开发工具全，可以干所有的事情，包括ios开发
+  * ubuntu: 次选的操作系统，没有mac的小伙伴可以试试ubuntu，除了不支持ios开发以外，开发起来都差不多，缺点是其他工具太少了
+  * windows: 呵呵 ...
+* IDE
+  * 首选webstorm，最智能的开发IDE，没有之一
+  * 次选Atom和Sublime，更加轻量级，启动比较快且可以免费用
+  * vi, emacs: 大牛就不用看这个文档了
+* 浏览器
+  * chrome是唯一的选择，跨所有的平台
+* 数据库查看
+  * mongo shell： 看服务器数据
+  * mongol：看minimongo实时数据
+  * robomongo：图形化界面看服务器数据
 
 ### HTML/CSS/LESS
 
