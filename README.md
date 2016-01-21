@@ -1,46 +1,16 @@
 # Meteor自学者指南
 
-##  1. 简介
+##  0. 简介
 
 * [Kevin的Meteor介绍](http://www.maiziedu.com/lesson/3446/) 通过一个中文的系列视频，从整个web框架演进的角度让你大致了解一下meteor的先进性以及相关原理，同时做了一个小程序
 * [硅谷排名第1的Web框架](https://github.com/showcases/web-application-frameworks) Github排序，比较具有权威性，Meteor是一个划时代的架构
 * [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)  虽然Meteor很强大，但是学习门槛并不高，很快就可以掌握相关内容
 * [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups) 实在没有更适合的东西了
 
-## 2. 基础
 
-最好掌握了一些基础以后再入门学习Meteor，也许需要一个web101的课程作为入门吧
+## 1. 入门学习
 
-### HTML/CSS/LESS
-
-**基本的**
-- [HTML中文教程](http://www.w3school.com.cn/html/index.asp) 中文简单教程
-- [CSS基础](http://www.w3school.com.cn/css/) 中文简单教程
-- [Codecademy Web教程](http://www.codecademy.com/en/tracks/web) 英文版实践教程，7小时学完
-
-**高级的**
-- [LESS动态样式语言](http://www.bootcss.com/p/lesscss/)
-- [Twitter Bootstrap](http://getbootstrap.com/) – 主站点，有很多好例子
-- [BootstrapZero](http://bootstrapzero.com/) – prebuilt bootstrap templates from which to learn
-- [Bootply](http://www.bootply.com/) – 可以快速测试的实时Bootstrap编辑器
-- [Bootstrap CSS](http://getbootstrap.com/css/)
-- [Bootsrap元素](http://getbootstrap.com/components)
-
-### Javascript
-
-Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了解
-
-- [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
-- [ECMAScript6入门](http://es6.ruanyifeng.com/) 阮一峰的ECMAScript6入门书，实时在线更新，也鼓励买纸书
-- [ES6](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md) Meteor的ES6说明
-
-### Mongodb
-
-- [官方教程](http://docs.mongodb.org/manual/core/introduction/) 入门教程
-- [Data Model Design for MongoDB](http://docs.mongodb.org/master/MongoDB-data-models-guide.pdf)  数据建模设计
-- [50 Tips and Tricks for MongoDB Developers](https://marcell.memoryoftheworld.org/Kristina%20Chodorow/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20(1935)/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf) MongoDB设计技巧
-
-## 3. 入门学习
+在入门之前，还需要掌握一些基本的web开发技能，具体参考附录
 
 ### 第1步
 
@@ -64,7 +34,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 * 反复练习1-3步，每次都会有新体会，直到你觉得完全没有新意为止
 
 
-## 4. 提高学习
+## 2. 提高学习
 
 
 ### 最佳实践
@@ -83,7 +53,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 
 
 
-## 5. 进阶学习
+## 3. 进阶学习
 
 ### 开源项目
 
@@ -129,3 +99,35 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 
 - [Meteor Talk](https://groups.google.com/forum/#!forum/meteor-talk) (Google Group) – generally get a response in a day
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor)
+
+## 4. 附录
+
+
+### HTML/CSS/LESS
+
+**基本的**
+- [HTML中文教程](http://www.w3school.com.cn/html/index.asp) 中文简单教程
+- [CSS基础](http://www.w3school.com.cn/css/) 中文简单教程
+- [Codecademy Web教程](http://www.codecademy.com/en/tracks/web) 英文版实践教程，7小时学完
+
+**高级的**
+- [LESS动态样式语言](http://www.bootcss.com/p/lesscss/)
+- [Twitter Bootstrap](http://getbootstrap.com/) – 主站点，有很多好例子
+- [BootstrapZero](http://bootstrapzero.com/) – prebuilt bootstrap templates from which to learn
+- [Bootply](http://www.bootply.com/) – 可以快速测试的实时Bootstrap编辑器
+- [Bootstrap CSS](http://getbootstrap.com/css/)
+- [Bootsrap元素](http://getbootstrap.com/components)
+
+### Javascript
+
+Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了解
+
+- [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
+- [ECMAScript6入门](http://es6.ruanyifeng.com/) 阮一峰的ECMAScript6入门书，实时在线更新，也鼓励买纸书
+- [ES6](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md) Meteor的ES6说明
+
+### Mongodb
+
+- [官方教程](http://docs.mongodb.org/manual/core/introduction/) 入门教程
+- [Data Model Design for MongoDB](http://docs.mongodb.org/master/MongoDB-data-models-guide.pdf)  数据建模设计
+- [50 Tips and Tricks for MongoDB Developers](https://marcell.memoryoftheworld.org/Kristina%20Chodorow/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20(1935)/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf) MongoDB设计技巧
