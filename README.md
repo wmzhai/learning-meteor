@@ -2,14 +2,14 @@
 
 ##  1. 简介
 
-* [Kevin的Meteor介绍](http://www.maiziedu.com/lesson/3446/)
-* [硅谷排名第1的Web框架](https://github.com/showcases/web-application-frameworks)
-* [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
-* [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)
+* [Kevin的Meteor介绍](http://www.maiziedu.com/lesson/3446/) 通过一个中文的系列视频，从整个web框架演进的角度让你大致了解一下meteor的先进性以及相关原理，同时做了一个小程序
+* [硅谷排名第1的Web框架](https://github.com/showcases/web-application-frameworks) Github排序，比较具有权威性，Meteor是一个划时代的架构
+* [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)  虽然Meteor很强大，但是学习门槛并不高，很快就可以掌握相关内容
+* [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups) 实在没有更适合的东西了
 
 ## 2. 基础
 
-最好掌握了一些基础以后再入门学习Meteor，也许需要一个web101的课程作为入门把
+最好掌握了一些基础以后再入门学习Meteor，也许需要一个web101的课程作为入门吧
 
 ### HTML/CSS/LESS
 
