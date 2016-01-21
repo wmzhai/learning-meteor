@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Meteor自学者指南 by wmzhai</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Meteor自学者指南</h1>
+      <h2 class="project-tagline">Meteor自学者指南</h2>
+      <a href="https://github.com/wmzhai/learning-meteor" class="btn">View on GitHub</a>
+      <a href="https://github.com/wmzhai/learning-meteor/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/wmzhai/learning-meteor/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1>
+<a id="meteor自学者指南" class="anchor" href="#meteor%E8%87%AA%E5%AD%A6%E8%80%85%E6%8C%87%E5%8D%97" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Meteor自学者指南</h1>
+
+<h2>
+<a id="0-简介" class="anchor" href="#0-%E7%AE%80%E4%BB%8B" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>0. 简介</h2>
+
+<ul>
+<li>
+<a href="http://www.maiziedu.com/lesson/3446/">Kevin的Meteor介绍</a> 通过一个中文的系列视频，从整个web框架演进的角度让你大致了解一下meteor的先进性以及相关原理，同时做了一个小程序</li>
+<li>
+<a href="https://github.com/showcases/web-application-frameworks">硅谷排名第1的Web框架</a> Github排序，比较具有权威性，Meteor是一个划时代的架构</li>
+<li>
+<a href="http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/">Meteor适合初学者</a>  虽然Meteor很强大，但是学习门槛并不高，很快就可以掌握相关内容</li>
+<li>
+<a href="http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups">Meteor适合精益创业</a> 实在没有更适合的东西了</li>
+</ul>
+
+<h2>
+<a id="1-入门学习" class="anchor" href="#1-%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1. 入门学习</h2>
+
+<p>在入门之前，还需要掌握一些基本的web开发技能，具体参考附录</p>
+
+<h3>
+<a id="第1步" class="anchor" href="#%E7%AC%AC1%E6%AD%A5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>第1步</h3>
+
+<p>实操如下教程</p>
+
+<ul>
+<li>
+<a href="https://www.meteor.com/tutorials/blaze/creating-an-app">官方教程</a>    入门阅读Blaze版，一步一步操作</li>
+</ul>
+
+<h3>
+<a id="第2步" class="anchor" href="#%E7%AC%AC2%E6%AD%A5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>第2步</h3>
+
+<p>实操如下教程</p>
+
+<ul>
+<li>
+<a href="http://zh.discovermeteor.com/">Discover Meteor中文版</a>  目前最好的一本中文书，Kevin翻译</li>
+</ul>
+
+<h3>
+<a id="第3步" class="anchor" href="#%E7%AC%AC3%E6%AD%A5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>第3步</h3>
+
+<p>实操如下教程</p>
+
+<ul>
+<li>
+<a href="http://meteortips.com/first-meteor-tutorial/">Your First Meteor Application</a>  通过LeaderBoard深入浅出地讲了一些原理，值得细读并操作</li>
+<li>
+<a href="http://meteortips.com/second-meteor-tutorial/">Your Second Meteor Application</a> 通过todos深入浅出地讲了一些原理，值得细读并操作</li>
+</ul>
+
+<h3>
+<a id="第4步" class="anchor" href="#%E7%AC%AC4%E6%AD%A5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>第4步</h3>
+
+<ul>
+<li>阅读<a href="http://docs.meteor.com/">Meteor文档</a>
+</li>
+<li>反复练习1-3步，每次都会有新体会，直到你觉得完全没有新意为止</li>
+</ul>
+
+<h2>
+<a id="2-提高学习" class="anchor" href="#2-%E6%8F%90%E9%AB%98%E5%AD%A6%E4%B9%A0" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2. 提高学习</h2>
+
+<h3>
+<a id="最佳实践" class="anchor" href="#%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>最佳实践</h3>
+
+<ul>
+<li>
+<a href="http://guide.meteor.com/">Meteor Guide</a> Meteor官方给出的最佳实践的文档，在线更新</li>
+<li>
+<a href="https://github.com/meteor/todos">Todos</a> Meteor官方配合Meteor Guide给出的例程，美中不足的是使用了Blaze框架</li>
+<li>
+<a href="https://bulletproofmeteor.com/">Bulletproof Meteor教程</a> Arunoda的教程，相对于其质量而言99美刀一点也不贵</li>
+</ul>
+
+<h3>
+<a id="相关原理" class="anchor" href="#%E7%9B%B8%E5%85%B3%E5%8E%9F%E7%90%86" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>相关原理</h3>
+
+<ul>
+<li><a href="http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation">OptimisticUI</a></li>
+<li><a href="https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/">Meteor Methods vs Client-Side Operations</a></li>
+<li><a href="https://meteorhacks.com/mongodb-oplog-and-meteor">Mongodb Oplog and Meteor</a></li>
+<li><a href="https://github.com/meteor/meteor/wiki/Tracker-Manual">Tracker Manual</a></li>
+<li><a href="https://kadira.io/academy/meteor-routing-guide">Routing Guide</a></li>
+</ul>
+
+<h2>
+<a id="3-进阶学习" class="anchor" href="#3-%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>3. 进阶学习</h2>
+
+<h3>
+<a id="开源项目" class="anchor" href="#%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>开源项目</h3>
+
+<ul>
+<li><a href="https://github.com/TelescopeJS/Telescope">Telescope</a></li>
+<li>
+<a href="http://libreboard.com/boards/MeSsFJaSqeuo9M6bs/libreboard-roadmap">Libreboard</a> meteor实现的trello</li>
+<li><a href="https://github.com/wekan/wekan">Wekan</a></li>
+<li><a href="https://github.com/meteoric/meteorhunt">MeteorHunt</a></li>
+<li><a href="https://github.com/Crowducate/crowducate-next">Crowducate</a></li>
+<li><a href="https://forums.meteor.com/t/mature-open-source-apps-built-with-meteor/935">Mature Open-source</a></li>
+</ul>
+
+<h3>
+<a id="模板项目" class="anchor" href="#%E6%A8%A1%E6%9D%BF%E9%A1%B9%E7%9B%AE" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>模板项目</h3>
+
+<ul>
+<li><a href="https://medium.com/things-i-did-and-learned-today/in-search-of-a-meteor-boilerplate-6f01fe5abfd1">模板项目比较</a></li>
+<li><a href="http://learn.meteorfactory.io/">Meteor Starter</a></li>
+<li><a href="https://github.com/gterrono/houston">houston:admin</a></li>
+<li><a href="https://github.com/wmzhai/issuetracker">Iron工具</a></li>
+<li>
+<a href="http://meteorfactory.io/meteor-admin">Meteor Admin</a> – Admin dashboard package for meteor</li>
+<li>
+<a href="https://github.com/raix/Meteor-handlebar-helpers">Handlebar Helpers</a> – useful helpers for every app</li>
+</ul>
+
+<h3>
+<a id="blogs" class="anchor" href="#blogs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Blogs</h3>
+
+<ul>
+<li><a href="https://www.discovermeteor.com/blog/">Discover Meteor Blog</a></li>
+<li><a href="http://www.manuel-schoebel.com/blog">Mannuel Shoebel’s blog</a></li>
+<li><a href="http://learn.meteorfactory.io/">Learn.MeteorFactory</a></li>
+<li><a href="https://meteorhacks.com/">MeteorHacks</a></li>
+<li><a href="http://www.meteorpodcast.com/">MeteorPodcast</a></li>
+<li><a href="http://javascriptissexy.com/learn-meteor-js-properly/">How To Learn Meteor Properly</a></li>
+</ul>
+
+<h3>
+<a id="seo" class="anchor" href="#seo" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SEO</h3>
+
+<ul>
+<li>
+<a href="http://manuel-schoebel.com/blog/meteor-and-seo">Meteor and SEO</a> – Manuel takes you through his <a href="https://github.com/DerMambo/ms-seo">SEO package</a>
+</li>
+</ul>
+
+<h3>
+<a id="性能监测" class="anchor" href="#%E6%80%A7%E8%83%BD%E7%9B%91%E6%B5%8B" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>性能监测</h3>
+
+<ul>
+<li>
+<a href="https://kadira.io/">Kadira</a> – Perfomance Monitoring for Meteor</li>
+<li><a href="https://kadira.io/academy/getting-started-with-kadira/">Getting Started With Kadira</a></li>
+</ul>
+
+<h3>
+<a id="提问" class="anchor" href="#%E6%8F%90%E9%97%AE" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>提问</h3>
+
+<ul>
+<li>
+<a href="https://groups.google.com/forum/#!forum/meteor-talk">Meteor Talk</a> (Google Group) – generally get a response in a day</li>
+<li><a href="http://stackoverflow.com/questions/tagged/meteor">Stack Overflow</a></li>
+</ul>
+
+<h2>
+<a id="4-附录" class="anchor" href="#4-%E9%99%84%E5%BD%95" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>4. 附录</h2>
+
+<h3>
+<a id="开发工具" class="anchor" href="#%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>开发工具</h3>
+
+<ul>
+<li>操作系统
+
+<ul>
+<li>mac: 首选的操作系统，开发工具全，可以干所有的事情，包括ios开发</li>
+<li>ubuntu: 次选的操作系统，没有mac的小伙伴可以试试ubuntu，除了不支持ios开发以外，开发起来都差不多，缺点是其他工具太少了</li>
+<li>windows: 呵呵 ...</li>
+</ul>
+</li>
+<li>IDE
+
+<ul>
+<li>首选webstorm，最智能的开发IDE，没有之一</li>
+<li>次选Atom和Sublime，更加轻量级，启动比较快且可以免费用</li>
+<li>vi, emacs: 大牛就不用看这个文档了</li>
+</ul>
+</li>
+<li>浏览器
+
+<ul>
+<li>chrome是唯一的选择，跨所有的平台</li>
+</ul>
+</li>
+<li>数据库查看
+
+<ul>
+<li>mongo shell： 看服务器数据</li>
+<li>mongol：看minimongo实时数据</li>
+<li>robomongo：图形化界面看服务器数据</li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="htmlcssless" class="anchor" href="#htmlcssless" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>HTML/CSS/LESS</h3>
+
+<p><strong>基本的</strong></p>
+
+<ul>
+<li>
+<a href="http://www.w3school.com.cn/html/index.asp">HTML中文教程</a> 中文简单教程</li>
+<li>
+<a href="http://www.w3school.com.cn/css/">CSS基础</a> 中文简单教程</li>
+<li>
+<a href="http://www.codecademy.com/en/tracks/web">Codecademy Web教程</a> 英文版实践教程，7小时学完</li>
+</ul>
+
+<p><strong>高级的</strong></p>
+
+<ul>
+<li><a href="http://www.bootcss.com/p/lesscss/">LESS动态样式语言</a></li>
+<li>
+<a href="http://getbootstrap.com/">Twitter Bootstrap</a> – 主站点，有很多好例子</li>
+<li>
+<a href="http://bootstrapzero.com/">BootstrapZero</a> – prebuilt bootstrap templates from which to learn</li>
+<li>
+<a href="http://www.bootply.com/">Bootply</a> – 可以快速测试的实时Bootstrap编辑器</li>
+<li><a href="http://getbootstrap.com/css/">Bootstrap CSS</a></li>
+<li><a href="http://getbootstrap.com/components">Bootsrap元素</a></li>
+</ul>
+
+<h3>
+<a id="javascript" class="anchor" href="#javascript" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Javascript</h3>
+
+<p>Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了解</p>
+
+<ul>
+<li>
+<a href="https://www.discovermeteor.com/blog/javascript-for-meteor/">A Javascript Primer for Meteor</a>(1小时) – DiscoverMeteor书里的简短教程</li>
+<li>
+<a href="http://es6.ruanyifeng.com/">ECMAScript6入门</a> 阮一峰的ECMAScript6入门书，实时在线更新，也鼓励买纸书</li>
+<li>
+<a href="https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md">ES6</a> Meteor的ES6说明</li>
+</ul>
+
+<h3>
+<a id="mongodb" class="anchor" href="#mongodb" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Mongodb</h3>
+
+<ul>
+<li>
+<a href="http://docs.mongodb.org/manual/core/introduction/">官方教程</a> 入门教程</li>
+<li>
+<a href="http://docs.mongodb.org/master/MongoDB-data-models-guide.pdf">Data Model Design for MongoDB</a>  数据建模设计</li>
+<li>
+<a href="https://marcell.memoryoftheworld.org/Kristina%20Chodorow/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20(1935)/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf">50 Tips and Tricks for MongoDB Developers</a> MongoDB设计技巧</li>
+</ul>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/wmzhai/learning-meteor">Meteor自学者指南</a> is maintained by <a href="https://github.com/wmzhai">wmzhai</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
