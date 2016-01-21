@@ -1,6 +1,6 @@
-# Meteor学习指南
+# Meteor自学者指南
 
-##  简介
+##  1. 简介
 
 ### 为什么使用Meteor
 
@@ -14,7 +14,7 @@
 - [Microduino](https://www.microduino.cc/)
 
 
-## 基础
+## 2. 基础
 
 最好掌握了一些基础以后再入门学习Meteor
 
@@ -47,7 +47,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Data Model Design for MongoDB](http://docs.mongodb.org/master/MongoDB-data-models-guide.pdf)  数据建模设计
 - [50 Tips and Tricks for MongoDB Developers](https://marcell.memoryoftheworld.org/Kristina%20Chodorow/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20(1935)/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf) MongoDB设计技巧
 
-## 入门学习
+## 3. 入门学习
 
 ### 第1步
 
@@ -71,7 +71,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 * 反复练习1-3步，每次都会有新体会，直到你觉得完全没有新意为止
 
 
-## 提高学习
+## 4. 提高学习
 
 
 ### Best Practice
@@ -106,7 +106,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 
 
-## 进阶学习
+## 5. 进阶学习
 
 ### Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
