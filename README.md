@@ -4,9 +4,10 @@
 
 ### 为什么使用Meteor
 
-- [Kevin的Meteor介绍](http://www.maiziedu.com/lesson/3446/)  
-- [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
-- [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)
+* [Kevin的Meteor介绍](http://www.maiziedu.com/lesson/3446/)
+* [硅谷排名第1的Web框架](https://github.com/showcases/web-application-frameworks)
+* [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
+* [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)
 
 ### 什么项目用了Meteor
 - [使用Meteor的初创公司](http://www.quora.com/Which-startups-use-Meteor-in-production)
@@ -77,6 +78,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 
 - [Meteor Guide](http://guide.meteor.com/) Meteor官方给出的最佳实践的文档，在线更新
 - [Todos](https://github.com/meteor/todos) Meteor官方配合Meteor Guide给出的例程，美中不足的是使用了Blaze框架
+- [Bulletproof Meteor教程](https://bulletproofmeteor.com/) Arunoda的教程，相对于其质量而言99美刀一点也不贵
 
 ### 相关原理
 
@@ -85,6 +87,10 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Mongodb Oplog and Meteor](https://meteorhacks.com/mongodb-oplog-and-meteor)
 - [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 - [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
+
+
+
+## 5. 进阶学习
 
 ### 开源项目
 
@@ -105,7 +111,6 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 
 
-## 5. 进阶学习
 
 ### Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
