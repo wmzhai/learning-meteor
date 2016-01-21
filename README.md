@@ -108,8 +108,8 @@
 * windows: 呵呵 ...
 
 **IDE**
-* 首选webstorm，最智能的开发IDE，没有之一
-* 次选Atom和Sublime，更加轻量级，启动比较快且可以免费用
+* 首选webstorm，目前最智能的开发IDE，没有之一
+* 次选Atom或Sublime：更加轻量级，启动比较快且可以免费用，更加看好Atom的发展
 * vi, emacs: 大牛就不用看这个文档了
 
 **浏览器**
