@@ -20,7 +20,7 @@
 
 ### HTML/CSS/LESS
 
-**基础的**
+**基本的**
 - [HTML中文教程](http://www.w3school.com.cn/html/index.asp)
 - [html&CSS教程](http://www.codecademy.com/en/tracks/web)(7小时)
 - [CSS基础](http://www.w3school.com.cn/css/)
