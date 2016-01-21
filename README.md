@@ -2,21 +2,14 @@
 
 ##  1. 简介
 
-### 为什么使用Meteor
-
 * [Kevin的Meteor介绍](http://www.maiziedu.com/lesson/3446/)
 * [硅谷排名第1的Web框架](https://github.com/showcases/web-application-frameworks)
 * [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
 * [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)
 
-### 什么项目用了Meteor
-- [使用Meteor的初创公司](http://www.quora.com/Which-startups-use-Meteor-in-production)
-- [Microduino](https://www.microduino.cc/) Microduino的电商平台，毛豆网开发
-
-
 ## 2. 基础
 
-最好掌握了一些基础以后再入门学习Meteor
+最好掌握了一些基础以后再入门学习Meteor，也许需要一个web101的课程作为入门把
 
 ### HTML/CSS/LESS
 
