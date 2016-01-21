@@ -21,9 +21,9 @@
 ### HTML/CSS/LESS
 
 **基本的**
-- [HTML中文教程](http://www.w3school.com.cn/html/index.asp)
-- [html&CSS教程](http://www.codecademy.com/en/tracks/web)(7小时)
-- [CSS基础](http://www.w3school.com.cn/css/)
+- [HTML中文教程](http://www.w3school.com.cn/html/index.asp) 中文简单教程
+- [CSS基础](http://www.w3school.com.cn/css/) 中文简单教程
+- [Codecademy Web教程](http://www.codecademy.com/en/tracks/web) 英文版实践教程，7小时学完
 
 **高级的**
 - [LESS动态样式语言](http://www.bootcss.com/p/lesscss/)
