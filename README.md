@@ -47,27 +47,31 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Data Model Design for MongoDB](http://docs.mongodb.org/master/MongoDB-data-models-guide.pdf)  数据建模设计
 - [50 Tips and Tricks for MongoDB Developers](https://marcell.memoryoftheworld.org/Kristina%20Chodorow/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20(1935)/50%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf) MongoDB设计技巧
 
-## 入门
+## 入门学习
 
-### 基本教程
-主要是如下4个教程，反复多走几遍，结合操作
+### 第1步
 
-- [官方教程](https://www.meteor.com/tutorials/blaze/creating-an-app)	入门阅读，一步一步操作
-- [Discover Meteor中文版](http://zh.discovermeteor.com/)
-- [Your First Meteor Application](http://meteortips.com/first-meteor-tutorial/)  深入浅出地讲了一些原理，值得细读并操作
-- [Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/) todos详解
+实操如下教程
+* [官方教程](https://www.meteor.com/tutorials/blaze/creating-an-app)	入门阅读Blaze版，一步一步操作
 
-### 其他教程
+### 第2步
 
-- [MetorJS Building an app from scratch](http://www.webtempest.com/meteorjs-fromscratch-1)
-- [Evented Mind在线教程](https://www.eventedmind.com/)
+实操如下教程
+* [Discover Meteor中文版](http://zh.discovermeteor.com/)  目前最好的一本中文书，Kevin翻译
 
-### Meteor文档
--  [Meteor文档](http://docs.meteor.com/#/basic/)
--  [Meteor基础](http://andrewscala.com/meteor/)
+### 第3步
+
+实操如下教程
+* [Your First Meteor Application](http://meteortips.com/first-meteor-tutorial/)  通过LeaderBoard深入浅出地讲了一些原理，值得细读并操作
+* [Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/) 通过todos深入浅出地讲了一些原理，值得细读并操作
 
 
-## 提高
+### 第4步
+* 阅读[Meteor文档](http://docs.meteor.com/)
+* 反复练习1-3步，每次都会有新体会，直到你觉得完全没有新意为止
+
+
+## 提高学习
 
 
 ### Best Practice
@@ -102,7 +106,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
 
 
-## 进阶
+## 进阶学习
 
 ### Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
