@@ -74,10 +74,10 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 ## 4. 提高学习
 
 
-### Best Practice
+### 最佳实践
 
-- [Meteor Guide](http://guide.meteor.com/)
-
+- [Meteor Guide](http://guide.meteor.com/) Meteor官方给出的最佳实践的文档，在线更新
+- [Todos](https://github.com/meteor/todos) Meteor官方配合Meteor Guide给出的例程，美中不足的是使用了Blaze框架
 
 ### 相关原理
 
