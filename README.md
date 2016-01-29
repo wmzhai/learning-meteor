@@ -57,8 +57,7 @@
 ## 开源项目
 
 - [Telescope](https://github.com/TelescopeJS/Telescope)
-- [Libreboard](http://libreboard.com/boards/MeSsFJaSqeuo9M6bs/libreboard-roadmap) meteor实现的trello
-- [Wekan](https://github.com/wekan/wekan)
+- [Wekan](https://github.com/wekan/wekan) meteor实现的trello
 - [MeteorHunt](https://github.com/meteoric/meteorhunt)
 - [Crowducate](https://github.com/Crowducate/crowducate-next)
 - [Mature Open-source](https://forums.meteor.com/t/mature-open-source-apps-built-with-meteor/935)
