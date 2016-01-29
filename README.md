@@ -46,6 +46,7 @@
 
 - [OptimisticUI](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
 - [Meteor Methods vs Client-Side Operations](https://www.discovermeteor.com/blog/meteor-methods-client-side-operations/)
+- [Livequery](https://www.meteor.com/livequery)
 - [Mongodb Oplog and Meteor](https://meteorhacks.com/mongodb-oplog-and-meteor)
 - [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 - [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
