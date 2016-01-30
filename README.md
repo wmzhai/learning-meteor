@@ -6,7 +6,6 @@
 * [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)  虽然Meteor很强大，但是学习门槛并不高，很快就可以掌握相关内容
 * [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups) 实在没有更适合的东西了
 
-
 # 1. 入门学习
 
 在入门之前，还需要掌握一些基本的web开发技能，具体参考附录
@@ -52,7 +51,6 @@
 - [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
 
 
-
 # 3. 进阶学习
 
 ## 开源项目
@@ -67,12 +65,8 @@
 
 - [模板项目比较](https://medium.com/things-i-did-and-learned-today/in-search-of-a-meteor-boilerplate-6f01fe5abfd1)
 - [Meteor Starter](http://learn.meteorfactory.io/)
-- [houston:admin](https://github.com/gterrono/houston)
-- [Iron工具](https://github.com/wmzhai/issuetracker)
 - [Meteor Admin](http://meteorfactory.io/meteor-admin) – Admin dashboard package for meteor
 - [Handlebar Helpers](https://github.com/raix/Meteor-handlebar-helpers) – useful helpers for every app
-
-
 
 ## Blogs
 - [Discover Meteor Blog](https://www.discovermeteor.com/blog/)
@@ -81,7 +75,6 @@
 - [MeteorHacks](https://meteorhacks.com/)
 - [MeteorPodcast](http://www.meteorpodcast.com/)
 - [How To Learn Meteor Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
-
 
 ## SEO
 
@@ -110,7 +103,6 @@
 **IDE**
 * 首选webstorm，目前最智能的开发IDE，没有之一
 * 次选Atom或Sublime：更加轻量级，启动比较快且可以免费用，更加看好Atom的发展
-* vi, emacs: 大牛就不用看这个文档了
 
 **浏览器**
 * chrome，唯一的选择，跨所有的平台
