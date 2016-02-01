@@ -133,6 +133,7 @@ Meteor里面主要是用最新ES6版的js，有些新的概念需要做一些了
 
 - [A Javascript Primer for Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)(1小时) – DiscoverMeteor书里的简短教程
 - [ECMAScript6入门](http://es6.ruanyifeng.com/) 阮一峰的ECMAScript6入门书，实时在线更新，也鼓励买纸书
+- [JavaScript忍者秘籍](http://item.jd.com/11782877.html)
 - [ES6](https://github.com/meteor/meteor/blob/master/packages/ecmascript/README.md) Meteor的ES6说明
 
 ## Mongodb
