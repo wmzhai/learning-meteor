@@ -38,7 +38,7 @@
 ## 最佳实践
 
 - [Meteor Guide](http://guide.meteor.com/) Meteor官方给出的最佳实践的文档，在线更新
-- [Todos](https://github.com/meteor/todos) Meteor官方配合Meteor Guide给出的例程，美中不足的是使用了Blaze框架
+- [Todos](https://github.com/meteor/todos) Meteor官方配合Meteor Guide给出的例程
 - [Mantra](https://kadirahq.github.io/mantra/)
 - [Bulletproof Meteor教程](https://bulletproofmeteor.com/) Arunoda的教程，相对于其质量而言99美刀一点也不贵
 
@@ -97,9 +97,8 @@
 
 ## 开发工具
 **操作系统**
-* mac: 首选的操作系统，开发工具全，可以干所有的事情，包括ios开发
-* ubuntu: 次选的操作系统，没有mac的小伙伴可以试试ubuntu，除了不支持ios开发以外，开发起来都差不多，缺点是其他工具太少了
-* windows: 呵呵 ...
+* 首选mac: 开发工具全，可以干所有的事情，包括ios开发
+* 次选ubuntu: 除了不支持ios开发以外，开发起来都差不多，缺点是其他工具太少了
 
 **IDE**
 * 首选webstorm，目前最智能的开发IDE，没有之一
