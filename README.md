@@ -39,6 +39,7 @@
 
 - [Meteor Guide](http://guide.meteor.com/) Meteor官方给出的最佳实践的文档，在线更新
 - [Todos](https://github.com/meteor/todos) Meteor官方配合Meteor Guide给出的例程，美中不足的是使用了Blaze框架
+- [Mantra](https://kadirahq.github.io/mantra/)
 - [Bulletproof Meteor教程](https://bulletproofmeteor.com/) Arunoda的教程，相对于其质量而言99美刀一点也不贵
 
 ## 相关原理
