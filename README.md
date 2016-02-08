@@ -39,7 +39,7 @@
 
 - [Meteor Guide](http://guide.meteor.com/) Meteor官方给出的最佳实践的文档，在线更新
 - [Todos](https://github.com/meteor/todos) Meteor官方配合Meteor Guide给出的例程
-- [Mantra](https://kadirahq.github.io/mantra/)
+- [Mantra](https://kadirahq.github.io/mantra/) Arunoda的Meteor最佳实践
 - [Bulletproof Meteor教程](https://bulletproofmeteor.com/) Arunoda的教程，相对于其质量而言99美刀一点也不贵
 
 ## 相关原理
@@ -76,10 +76,6 @@
 - [MeteorHacks](https://meteorhacks.com/)
 - [MeteorPodcast](http://www.meteorpodcast.com/)
 - [How To Learn Meteor Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
-
-## SEO
-
-- [Meteor and SEO](http://manuel-schoebel.com/blog/meteor-and-seo) – Manuel takes you through his [SEO package](https://github.com/DerMambo/ms-seo)
 
 
 ## 性能监测
