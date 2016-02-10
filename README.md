@@ -59,7 +59,7 @@
 - [Telescope](https://github.com/TelescopeJS/Telescope)
 - [Wekan](https://github.com/wekan/wekan) meteor实现的trello
 - [MeteorHunt](https://github.com/meteoric/meteorhunt)
-- [Crowducate](https://github.com/Crowducate/crowducate-next)
+- [Crowducate](https://github.com/Crowducate/crowducate-platform)
 - [Mature Open-source](https://forums.meteor.com/t/mature-open-source-apps-built-with-meteor/935)
 
 ## 模板项目
