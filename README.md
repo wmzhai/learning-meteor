@@ -51,8 +51,13 @@
 - [Tracker Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 - [Routing Guide](https://kadira.io/academy/meteor-routing-guide)
 
+# 3. 专题讨论
 
-# 3. 进阶学习
+## 数据
+
+- [Introduction to GraphQL](https://learngraphql.com/basics/introduction)
+
+# 4. 参考内容
 
 ## 开源项目
 
@@ -89,7 +94,8 @@
 - [Meteor Talk](https://groups.google.com/forum/#!forum/meteor-talk) (Google Group) – generally get a response in a day
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor)
 
-# 4. 附录
+
+# 5. 附录
 
 为了掌握meteor，需要在HTML,CSS和JavaScript方面有着比较扎实的基本功
 
@@ -99,8 +105,8 @@
 * 次选ubuntu: 除了不支持ios开发以外，开发起来都差不多，缺点是其他工具太少了
 
 **IDE**
-* 首选webstorm，目前最智能的开发IDE，没有之一
-* 次选Atom或Sublime：更加轻量级，启动比较快且可以免费用，更加看好Atom的发展
+* Webstorm: 目前最智能的开发IDE
+* Atom：开源免费，不过需要自己翻墙安装插件
 
 **浏览器**
 * chrome，唯一的选择，跨所有的平台
